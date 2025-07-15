@@ -1,3 +1,6 @@
+
+Apologies for the late response — I saw your email only recently and had just about 2 hours left to complete the assignment. Given the limited time, I focused on ensuring that all three web APIs are implemented and functioning correctly. While the UI/UX may not be as refined as I would have liked, the entire code is working as intended. I’ve done my best within the timeframe and appreciate your understanding. Looking forward to your feedback.
+
 # Eco-Reporter Application
 
 A modern web application designed to empower users to easily report local environmental issues by capturing and annotating evidence on the go. This project was built as a technical assignment for the Frontend Developer Internship at Tap Invest.
