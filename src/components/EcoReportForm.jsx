@@ -148,7 +148,7 @@ const EcoReporterForm = () => {
   return (
     <form
       onSubmit={handleSubmit}
-      className="bg-white w-full text-black p-6 rounded-3xl"
+      className="bg-white w-full text-black p-4 rounded-2xl"
     >
       {/* Issues Section */}
       <div>
